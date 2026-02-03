@@ -1,0 +1,7 @@
+{
+  "name": "Raegan Rocks",
+  "description": "A playful, Wii-aesthetic time tracking application for nannies with voice commands and pay stub generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
